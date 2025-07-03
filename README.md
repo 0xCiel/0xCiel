@@ -1,6 +1,6 @@
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,lua,java,html&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,lua,java,html,ruby&perline=3)](https://skillicons.dev)
 
 
 ### IDE I use:
