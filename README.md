@@ -13,3 +13,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1250431140607557702?showDisplayName=true)](https://discord.com/users/1250431140607557702)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=0xCiel)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xCiel)](https://github.com/ryo-ma/github-profile-trophy)
