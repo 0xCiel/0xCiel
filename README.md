@@ -1,6 +1,6 @@
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,lua,java,html,ruby,rust&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,lua,java,html,js,css,ruby,rust&perline=5)](https://skillicons.dev)
 
 ## IDEs I Use
 
