@@ -16,4 +16,4 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=0xCiel)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xCiel)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xCiel&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
