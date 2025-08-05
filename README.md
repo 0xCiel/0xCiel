@@ -1,6 +1,8 @@
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,lua,java,html,js,css,ruby,rust&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,lua,java,html,js,css,ruby,rust&perline=20)](https://skillicons.dev)
+<img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/3dda5850-8318-424b-bb14-10b1cff8382e" />
+
 
 ## IDEs I Use
 
