@@ -5,10 +5,7 @@
 <img src="https://github.com/user-attachments/assets/1b650d76-8e02-4a69-95e1-867b6c052c65" width="200" height="200">
 
 
-## Languages
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,lua,java,html,js,css,ruby,rust&perline=20)](https://skillicons.dev)
-<img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/3dda5850-8318-424b-bb14-10b1cff8382e" />
+<img width="4032" height="3024" alt="Untitled(2)" src="https://github.com/user-attachments/assets/4476b017-e07d-46e9-bdb7-cbb1fe4ab940" />
 
 
 ## IDEs I Use
