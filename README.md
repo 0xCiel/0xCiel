@@ -1,8 +1,9 @@
-
-
 <img width="4032" height="3024" alt="Untitled(1)" src="https://github.com/user-attachments/assets/bb537eb5-030d-430a-8cf2-1580a81c032a" />
 
-![agnes-tachyon-umamusume](https://github.com/user-attachments/assets/1b650d76-8e02-4a69-95e1-867b6c052c65)
+<img src="https://github.com/user-attachments/assets/fdcee0b1-2962-48ec-9898-5cb2e5307dbb" width="1024" height="500"><br>
+
+<img src="https://github.com/user-attachments/assets/1b650d76-8e02-4a69-95e1-867b6c052c65" width="200" height="200">
+
 
 ## Languages
 
