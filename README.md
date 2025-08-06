@@ -1,3 +1,9 @@
+
+
+<img width="4032" height="3024" alt="Untitled(1)" src="https://github.com/user-attachments/assets/bb537eb5-030d-430a-8cf2-1580a81c032a" />
+
+![agnes-tachyon-umamusume](https://github.com/user-attachments/assets/1b650d76-8e02-4a69-95e1-867b6c052c65)
+
 ## Languages
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,lua,java,html,js,css,ruby,rust&perline=20)](https://skillicons.dev)
