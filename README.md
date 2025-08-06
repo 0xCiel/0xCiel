@@ -8,13 +8,8 @@
 <img width="4032" height="3024" alt="Untitled(2)" src="https://github.com/user-attachments/assets/4476b017-e07d-46e9-bdb7-cbb1fe4ab940" />
 
 
-## IDEs I Use
+<img width="4032" height="3024" alt="Untitled(1)(1)" src="https://github.com/user-attachments/assets/b9a69f19-8410-4d31-bcaa-1efb493a8026" />
 
-[![Tools](https://skillicons.dev/icons?i=visualstudio,rider,vscode,idea&perline=4)](https://skillicons.dev)
-
-## Game Engines I've used
-
-[![GEngine](https://skillicons.dev/icons?i=robloxstudio,unity,unreal,godot&perline=4)](https://skillicons.dev)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1250431140607557702?showDisplayName=true)](https://discord.com/users/1250431140607557702)
 
