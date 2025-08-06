@@ -11,8 +11,19 @@
 <img width="4032" height="3024" alt="Untitled(1)(1)" src="https://github.com/user-attachments/assets/b9a69f19-8410-4d31-bcaa-1efb493a8026" />
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1250431140607557702?showDisplayName=true)](https://discord.com/users/1250431140607557702)
+<p align="center">
+  <a href="https://discord.com/users/1250431140607557702">
+    <img src="https://lanyard.cnrad.dev/api/1250431140607557702?showDisplayName=true" alt="Discord Presence"/>
+  </a>
+</p>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=0xCiel)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xCiel" alt="GitHub Views"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xCiel&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=0xCiel&theme=aura" alt="GitHub Trophy"/>
+  </a>
+</p>
+
