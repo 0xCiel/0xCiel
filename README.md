@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6cc3017-9fe7-4aad-898d-3a8a64f8114d" alt="MyBelovedFamily" width="300"/>
+</p>
+
+# My Beloved Wife and Kids^^^^^^^^^^^^^^^^^^^^^^^
+
 <img width="4032" height="3024" alt="Untitled(1)" src="https://github.com/user-attachments/assets/bb537eb5-030d-430a-8cf2-1580a81c032a" />
 
 <img src="https://github.com/user-attachments/assets/fdcee0b1-2962-48ec-9898-5cb2e5307dbb" width="1024" height="500"><br>
